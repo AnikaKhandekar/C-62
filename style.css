@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 40px;
+
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+
+}
+
+#games {
+
+    width: 100%;
+    height: 600px;
+    background-color: hotpink;
+    
+}
+#bots{
+    width: 100%;
+    height: 600px;
+    background-color:aquamarine ;
+}
+img{
+    height: 300px;
+    transition:transform .2s;
+    
+}
+img:hover{
+    transform: scale(.9);
+    
+}
+.line{
+    height: 6px;
+    background-color: paleturquoise;
+    width: 70px;
+    margin: 8px auto;
+}
+#Mycarousel{
+    background-color: darkmagenta;
+    
+}
+#Mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+    
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:azure;
+    font-size: 20px;
+    
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:azure;
+    font-size: 20px;
+    
+}
